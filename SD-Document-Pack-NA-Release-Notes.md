@@ -18,4 +18,7 @@
 
 - The SD Document Pack Setup Card was extended to surface an action for Assisted Setup for the localised North American reports.
 
+- SD Document Pack Permissions were extended to include the North American localised reports contained in the SD Document Pack (NA) app.
+
+
 
