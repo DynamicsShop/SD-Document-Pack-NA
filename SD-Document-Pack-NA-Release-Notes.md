@@ -1,5 +1,11 @@
 ## SD Document Pack NA Releases
 
+### 1.0.1
+
+#### Enhancements
+
+- Added a new Company Address procedure with VAR support, created as a copy of the existing Company Address functionality, to breakdown the address into separate fields.
+
 ### 1.0.0
 
 #### Enhancements
