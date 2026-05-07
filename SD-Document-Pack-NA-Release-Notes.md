@@ -1,5 +1,11 @@
 ## SD Document Pack NA Releases
 
+### 1.1.1
+
+#### Bug Fixes
+
+- The value passed to the Company Address 2 in the Sales Invoice NA Report was the full Company Address and this value in full, rather than the individual parts of the Company Address, was surfaced on the report layout. This was fixed.
+
 ### 1.0.1
 
 #### Enhancements
